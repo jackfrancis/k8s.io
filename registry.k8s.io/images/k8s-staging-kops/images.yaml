@@ -1966,3 +1966,63 @@
   dmap:
     "sha256:81cab96010c3aae37efc67c3f3f099e77cdbfc67c60819ee8d313b4a6688535f": ["1.36.0-beta.1"]
 
+
+# 1.35.2
+- name: discovery-server
+  dmap:
+    "sha256:1c8c898da6d473f491a880db827e5a5762edaf2251e4c935492e3111ea43d846": ["1.35.2"]
+- name: dns-controller
+  dmap:
+    "sha256:f817e1b9ca7558c2c85e197e5a0d1406827dabc0cf0085778853baca9b1f2e2d": ["1.35.2"]
+- name: kops-controller
+  dmap:
+    "sha256:dc8c84bef721588cb30eee9e067e3e69282ae797334dbbae2c606e471958a3c7": ["1.35.2"]
+- name: kops-utils-cp
+  dmap:
+    "sha256:99e55613fc95559f99b7b7f7ec201b3fdce42af830eaf93c4fd4d59a390b6d18": ["1.35.2"]
+- name: kube-apiserver-healthcheck
+  dmap:
+    "sha256:c03273d18f5ac48b80ad37b8240a6934a24c373cf917034a8933fff147c8e698": ["1.35.2"]
+
+
+# 1.36.0
+- name: channels
+  dmap:
+    "sha256:d7a6068f45c7356a82e1bd0d91e7b1f7cdcdcfa405204ad60618dbc406d2adae": ["1.36.0"]
+- name: discovery-server
+  dmap:
+    "sha256:90b8b8a7a9bad6e5b0e670a276471c5005191577f16b70a9887b6828c9f2e02e": ["1.36.0"]
+- name: dns-controller
+  dmap:
+    "sha256:f81e862b763720c7c1b108105571c9581761b6b53613add788c257420e1912c9": ["1.36.0"]
+- name: kops-controller
+  dmap:
+    "sha256:200ab0de5aae1add9b7e7d5e1f18da4dabac3b295a210b076985a881982619be": ["1.36.0"]
+- name: kops-utils-cp
+  dmap:
+    "sha256:e659891e52ec43e8bab1244202f13d17c677e57bdd3501d488b662c81d024781": ["1.36.0"]
+- name: kube-apiserver-healthcheck
+  dmap:
+    "sha256:09473665a976b04326b430c4daae98fdd7a3a53fe39f91ea8df651da8dd46db4": ["1.36.0"]
+
+
+# 1.37.0-alpha.1
+- name: channels
+  dmap:
+    "sha256:9a40dbce76a65625d782def8bd7765e4e409bbc85b334d05e2cab695db124464": ["1.37.0-alpha.1"]
+- name: discovery-server
+  dmap:
+    "sha256:466473d57384b6fd01be86b6d8c7c2d4098273e1f1674a9ca833a2711a74d6e9": ["1.37.0-alpha.1"]
+- name: dns-controller
+  dmap:
+    "sha256:557fa336bf02428ffd9eb16ddfe33c5fe0f7380aecbad7f26573ceabcaad7457": ["1.37.0-alpha.1"]
+- name: kops-controller
+  dmap:
+    "sha256:5a642f9874d8ba2c183b07fb35035d2b76458b9440846f8d32c5f27c09027097": ["1.37.0-alpha.1"]
+- name: kops-utils-cp
+  dmap:
+    "sha256:e80cd3a2485d8554dc7e4476507894da98d5951b8bddba6862a045e29dec07b7": ["1.37.0-alpha.1"]
+- name: kube-apiserver-healthcheck
+  dmap:
+    "sha256:efb8c1bbd7ed1fa9595b73feea95ea80d0c9f9f5638b3732b89094421df599cc": ["1.37.0-alpha.1"]
+
